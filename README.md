@@ -7,6 +7,8 @@ Current icons
 -------------
 
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/chrome.png" width="64px">
+<img src="https://raw.github.com/Nextil/flatpack/master/PNG/firefox.png" width="64px">
+<img src="https://raw.github.com/Nextil/flatpack/master/PNG/firefoxalt.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/explorer.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/github.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/itunes.png" width="64px">
