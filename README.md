@@ -16,6 +16,7 @@ Current icons
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/winshell.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/origin.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/photoshop.png" width="64px">
+<img src="https://raw.github.com/Nextil/flatpack/master/PNG/intellij.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/pycharm.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/rdio.png" width="64px">
 <img src="https://raw.github.com/Nextil/flatpack/master/PNG/skype.png" width="64px">
